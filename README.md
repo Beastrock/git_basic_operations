@@ -33,7 +33,7 @@
 О том, как ей пользоваться можно прочесть на [СтекОверфловиче](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch).  
 А если непонятно чей код оставлять: твой или коллеги, то уже выяснить это напрямую с ним.  
 
-В PyCharm можно выполнять данные операции удобнее и нагляднее чем в консоле. [Ссылка на документацию](https://www.jetbrains.com/help/pycharm/2016.1/using-git-integration.html)   
+В PyCharm можно выполнять данные операции удобнее и нагляднее чем в консоли. [Ссылка на документацию](https://www.jetbrains.com/help/pycharm/2016.1/using-git-integration.html)   
 
 --------------------------------------------------
 ### Отпочковать ветку
